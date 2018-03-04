@@ -6,4 +6,5 @@ def LEI_downloader():
 
 
 def get_lei_filelist():
+    print('Download!')
     
